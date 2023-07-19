@@ -40,8 +40,10 @@ body {
 
 .output .previous-operand {
   color: white;
+  font-size: 20px;
 }
 
 .output .current-operand {
   color: white;
+  font-size: 30px;
 }
